@@ -10,9 +10,14 @@
 
 ### Screen shot of working application
 ![Alt text](/public/images/working-budget.PNG)
+![working-budget](https://user-images.githubusercontent.com/79660077/133030349-85779ac2-36be-469e-bdcd-5f7c5b68fe5d.PNG)
+
+
 
 ### Negative Budget
 ![Alt text](/public/images/negative-budget.PNG)
+![negative-budget](https://user-images.githubusercontent.com/79660077/133030333-f71852cf-1521-45a1-83a9-6c86f66adefd.PNG)
+
 
 ## Challenges:
 
